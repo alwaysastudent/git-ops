@@ -1,2 +1,1 @@
-# git-ops
-Gitops training repository.
+# _Gitops_ Training
